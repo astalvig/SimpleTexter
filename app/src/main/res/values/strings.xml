@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SimpleTexter</string>
+    <string name="action_settings">Settings</string>
+    <string name="SelectContact">Select a Contact</string>
+    <string name="Lola">Lola Hola</string>
+    <string name="Marlene">Marlene Canteen</string>
+    <string name="Tiffy">Tiffy Jiffy</string>
+    <string name="LolaBtn">Send Lola a text message</string>
+    <string name="MarleneBtn">Send Marlene a text message</string>
+    <string name="TiffyBtn">Send Tiffy a text message</string>
+    <string name="select_message">Select a Message</string>
+    <string-array name="message_options">
+        <item>On my way!</item>
+        <item>Call you back later.</item>
+        <item>What\'s up, buttercup?</item>
+        <item>I can\'t chat right now. Catch you later.</item>
+        <item>Sounds good.</item>
+    </string-array>
+    <string name="sendMsg">Send Message</string>
+</resources>
